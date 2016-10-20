@@ -1,0 +1,25 @@
+{
+  "name": "macify",
+  "version": "0.1.0",
+  "description": "Converts a Windows shortcut to a Mac shortcut",
+  "main": "src/macify.js",
+  "scripts": {
+    "postversion": "git push && git push --tags && npm publish"
+  },
+  "keywords": [
+    "macify",
+    "windows",
+    "mac",
+    "shortcut"
+  ],
+  "author": "Nicolas Escalante <nlante@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nescalante/macify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nescalante/macify/issues"
+  },
+  "homepage": "https://github.com/nescalante/macify#readme"
+}
