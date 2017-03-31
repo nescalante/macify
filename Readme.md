@@ -1,5 +1,7 @@
 # macify
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nescalante/macify.svg)](https://greenkeeper.io/)
+
 > Converts a Windows shortcut to a Mac shortcut
 
 ## Install
